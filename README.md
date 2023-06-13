@@ -1,6 +1,9 @@
 # Data Engineering Project: Automated ETL Pipeline with Apache Airflow
+<img width="952" alt="data flow dia" src="https://github.com/user-attachments/assets/f822c04e-c941-4a92-95d7-57b051a21091" />
 
 In this project, I built and automate an ETL process that extracts current weather data from the Open Weather Map API, transforms it, and loads the csv results obtained into an AWS S3 bucket. The entire project runs on the AWS cloud platform and leverages Apache Airflow to orchestrate and schedule the workflows.
+
+<img width="1362" alt="airflow functions" src="https://github.com/user-attachments/assets/71bd32cd-31cc-45be-a4ff-5067b92695f4" />
 
 ## Key Concepts
 
